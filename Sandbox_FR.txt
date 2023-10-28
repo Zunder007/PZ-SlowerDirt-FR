@@ -1,0 +1,27 @@
+Sandbox_FR = {
+    Sandbox_SlowerDirt = "Slower Dirt Accrual",
+
+    Sandbox_SlowerDirtMode = "Mode de correction d'accumulation",
+    Sandbox_SlowerDirtMode_tooltip = "Les types de corrections d’accumulation qui se produiront.",
+    Sandbox_SlowerDirtMode_option1 = "Corps uniquement",
+    Sandbox_SlowerDirtMode_option2 = "Vêtements uniquement",
+    Sandbox_SlowerDirtMode_option3 = "Corps & Vêtements",
+
+    Sandbox_SlowerDirtBodyIncreaseMultiplier = "Multiplicateur d'augmentation de la saleté corporelle",
+    Sandbox_SlowerDirtBodyIncreaseMultiplier_tooltip = "Le multiplicateur qui sera utilisé pour corriger l’accumulation de saleté corporelle.",
+
+    Sandbox_SlowerDirtBodyMultiplierApplyMinimum = "Application minimale du multiplicateur de saleté corporelle",
+    Sandbox_SlowerDirtBodyMultiplierApplyMinimum_tooltip = "Le montant minimum d'augmentation requis pour appliquer le multiplicateur de saleté corporelle.",
+
+    Sandbox_SlowerDirtBodyMultiplierApplyMaximum = "Application maximale du multiplicateur de saleté corporelle",
+    Sandbox_SlowerDirtBodyMultiplierApplyMaximum_tooltip = "Le montant maximum d’augmentation autorisé pour appliquer le multiplicateur de saleté corporelle.",
+
+    Sandbox_SlowerDirtClothingIncreaseMultiplier = "Multiplicateur d'augmentation de la saleté des vêtements",
+    Sandbox_SlowerDirtClothingIncreaseMultiplier_tooltip = "Le multiplicateur qui sera utilisé pour corriger l’accumulation de saleté sur les vêtements.",
+
+    Sandbox_SlowerDirtClothingMultiplierApplyMinimum = "Application minimale du multiplicateur de saleté sur les vêtements",
+    Sandbox_SlowerDirtClothingMultiplierApplyMinimum_tooltip = "Le montant minimum d'augmentation requis pour appliquer le multiplicateur de saleté sur les vêtements.",
+
+    Sandbox_SlowerDirtClothingMultiplierApplyMaximum = "Application maximale du multiplicateur de saleté sur les vêtements",
+    Sandbox_SlowerDirtClothingMultiplierApplyMaximum_tooltip = "Le montant maximum d'augmentation autorisé pour appliquer le multiplicateur de saleté sur les vêtements.",
+}
